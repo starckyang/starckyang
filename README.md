@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### About me
+
+- Currently a grad student in Financial Mathematics program at UChicago
+- Enthusiastic about quantitative finance
+- Having my undergrad at National Taiwan University, I double majored in Finance and International Business
+
+
 <!--
 **starckyang/starckyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
